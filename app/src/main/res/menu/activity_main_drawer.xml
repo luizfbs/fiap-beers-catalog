@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myconsumption"
+            android:icon="@drawable/ic_consumption"
+            android:title="Meu Consumo"
+            android:enabled="false" />
+        <item
+            android:id="@+id/nav_mygoals"
+            android:icon="@drawable/ic_goals"
+            android:title="Minha Meta"
+            android:enabled="false" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Sair" />
+    </group>
+
+</menu>

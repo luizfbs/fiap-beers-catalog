@@ -1,0 +1,51 @@
+<resources>
+    <string name="facebook_app_id">953055621415429</string>
+    <string name="app_name">Minhas Brejas</string>
+
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+
+    <string name="action_orderby">Order por</string>
+    <string name="title_activity_login">Acessar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_user">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">ACESSAR</string>
+    <string name="action_sign_in_fb">ACESSAR COM FACEBOOK</string>
+    <string name="action_sign_in_short">Acessar</string>
+    <string name="error_invalid_user">O e-mail é inválido</string>
+    <string name="error_invalid_password">A senha está muito curta</string>
+    <string name="error_incorrect_password">A senha está incorreta</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="permission_rationale">Permissão de acesso aos contatos é necessária</string>
+    <string name="login_or_label">--- ou ---</string>
+    <string name="title_login">Login</string>
+    <string name="error_fb_login_canceled">Login pelo Facebook cancelado</string>
+    <string name="error_fb_login">Falha no Login pelo Facebook</string>
+
+    <!-- Strings related to add/edit -->
+    <string name="title_add">Adicionar</string>
+    <string name="title_edit">Editar</string>
+    <string name="label_no_beers">Nenhuma breja foi encontrada... =/</string>
+    <string name="action_orderby_date">Data</string>
+    <string name="action_orderby_name">Nome</string>
+    <string name="action_orderby_style">Estilo</string>
+    <string name="action_orderby_brewery">Cervejaria</string>
+    <string name="label_intent_chooser">Capturar ou Selecionar Imagem</string>
+    <string name="form_remove_title">Remover</string>
+    <string name="form_remove_message">Tem certeza que deseja remover este registro?</string>
+    <string name="form_save_button_text">SALVAR</string>
+    <string name="form_remove_button_text">REMOVER</string>
+    <string name="contentDescription_image">Imagem da Breja</string>
+    <string name="load_more_text">CARREGAR MAIS ANTIGOS</string>
+
+    <!-- Strings related to permissions -->
+    <string name="title_read_permission">Permissão requerida</string>
+    <string name="message_read_permission">O app precisa da permissão de leitura do sdcard para acessar as imagens dos rótulos.</string>
+    <string name="message_read_permission_denied">Sem permissão de leitura do sdcard o app não funciona. =/</string>
+
+    <string name="title_write_permission">Permissão requerida</string>
+    <string name="message_write_permission">O app precisa da permissão de escrita do sdcard para salvar as imagens dos rótulos.</string>
+    <string name="message_write_permission_denied">Sem permissão de escrita do sdcard o app não pode salvar as imagens dos rótulos. =/</string>
+</resources>

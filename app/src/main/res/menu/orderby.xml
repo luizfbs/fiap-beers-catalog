@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_orderby_date"
+        android:title="@string/action_orderby_date"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_orderby_name"
+        android:title="@string/action_orderby_name"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_orderby_style"
+        android:title="@string/action_orderby_style"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_orderby_brewery"
+        android:title="@string/action_orderby_brewery"
+        app:showAsAction="never" />
+
+</menu>
